@@ -1,0 +1,21 @@
+div{
+    background-color: brown;
+    width: 450px;
+    height: 100px;
+    margin: 20px;
+}
+
+#firstsection{
+    text-align: center;
+    border: 1px solid blue;
+ }
+
+ .studentsection{
+    border: 2px dotted black;
+    border-radius: 8px
+ }
+
+ section{
+    border: 2px dotted pink;
+    border-radius: 8px
+ }
